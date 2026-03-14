@@ -1,2 +1,2 @@
 # e-commerce
-workflow
+docker compose up --build
